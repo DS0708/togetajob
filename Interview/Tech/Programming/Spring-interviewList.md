@@ -1,4 +1,4 @@
-# 개발자 기술면접 질문 정리 - 백엔드
+# Spring - 면접 예상 질문
 
 ## 1. WAS(Web Application Server)와 WS(Web Server)의 차이를 설명해주세요.
 ## 2. Spring Framework에 대해 설명해주세요.
